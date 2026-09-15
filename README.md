@@ -8,7 +8,8 @@
 
 | 主题                               | 文件                | 视频                   |
 | -------------------------------- | ----------------- | -------------------- |
-| 【主题 1：自监督表示学习与对比学习】              |[PDF](【https://github.com/moumou66666688/group-meeting-presentations/blob/main/具身推理——沈佳琪——20260905.pdf】 | [Bilibili](https://www.bilibili.com/video/BV1ZJbL61Ept/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c5618cc4120e015a81854fdcfd1f20e5) |
+| 【主题 1：自监督表示学习与对比学习】    |[PDF](https://github.com/moumou66666688/group-meeting-presentations/blob/main/具身推理——沈佳琪——20260905.pdf)
+ | [Bilibili](https://www.bilibili.com/video/BV1ZJbL61Ept/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c5618cc4120e015a81854fdcfd1f20e5) |
 
 
 ## 说明
