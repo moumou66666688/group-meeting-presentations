@@ -1,7 +1,6 @@
 # Group Meeting Presentations
 
 以上整理了AVCLab-JiaqiShen汇报组会学习报告ppt，内容主要涉及具身智能与Agent Memory。
-AVCLab：(https://space.bilibili.com/523477554?spm_id_from=333.1387.follow.user_card.click)
 
 ## 演示文稿
 
